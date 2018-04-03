@@ -1,0 +1,19 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "Basic POC of a command line program in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thiago.cardoso",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "npm": "^5.8.0"
+  }
+}
